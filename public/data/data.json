@@ -1,0 +1,1157 @@
+{
+  "PythonData": {
+    "courses": [
+        {
+        "id": "python_c1",
+        "img": "python-c1.jpg",
+        "title": "Learn Python: The Complete Python Programming Course",
+        "description": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
+        "instructors": [
+          {
+            "name": "Avinash Jain",
+            "headline": "CEO of TheCodex.me - Teaching 500,000+ Students how to code",
+            "instructor_rating": 4.4,
+            "total_reviews_count": 73859,
+            "total_students": 892299,
+            "courses_count": 16,
+            "img": "Avinash.jpg",
+            "about": "<div><p><strong><em>&nbsp; &nbsp;</em> </strong>Avinash Jain is currently a senior at UC Berkeley majoring in Electrical Engineering and Computer Science. He's the CEO and Founder of TheCodex, an online educational&nbsp;platform focused on bringing the best programming content to hundreds of&nbsp;thousands of students around the world.</p><p>His programming journey began at the age of 10, starting off with simple Python scripts to crawl the weather.&nbsp;Since then, he's worked at numerous companies and is professionally experienced in Python, iOS Development and Web Development. He's launched a plethora of applications in the App Store amassing thousands of downloads. Additionaly, he's competed and won in&nbsp;several hackathons around the world including PennApps and NWHacks.</p><p>Avinash has a passion to teach - his enthusiasm and love for programming is evident in every video. For the past 7 years he's been an instructor on Udemy and he loves motivating and enabling others to pursue their programming dreams. He hopes to help students realize the power of programming and jumpstart their careers through his courses.</p><p>Checkout TheCodex for all of his courses, fantastic&nbsp;discounts, and&nbsp;any guidance or help.&nbsp;</p></div>"
+          },
+          {
+            "name": "The Codex",
+            "headline": "Teaching Python through Projects",
+            "instructor_rating": 4.4,
+            "total_reviews_count": 73859,
+            "total_students": 892299,
+            "courses_count": 16,
+            "img": "Codex.jpg",
+            "about": "<div><p>You've taken a lengthy and boring coding class, but you're clueless about applying these concepts to build your ideas. The Codex shows you how to <strong>build fun, practical projects</strong>. Now, you can stand out from the crowd and <strong>land your dream job</strong>.</p><p><br></p><p>Join us on our platform today! </p></div>"
+          }
+        ],
+        "students_feedback": {
+          "five_stars_percentage": "43",
+          "four_stars_percentage": "37",
+          "three_stars_percentage": "15",
+          "two_stars_percentage": "3",
+          "one_star_percentage": "2",
+          "avg_stars": "4.4"
+        },
+        "reviews": [
+          {
+            "_class": "course_review",
+            "id": 121693318,
+            "content": "Sometimes confusing but was able to clarify. Good job nonetheless.",
+            "rating": 3.0,
+            "created": "2022-08-21T14:29:16-07:00",
+            "modified": "2022-08-23T16:07:43-07:00",
+            "user_modified": "2022-08-21T14:29:57-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Asif Henry",
+              "name": "Asif",
+              "display_name": "Asif Henry",
+              "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "AH",
+              "tracking_id": "yhQPUW4_RiaeE9mrAr_7lA",
+              "public_display_name": "Asif H."
+            },
+            "response": null,
+            "content_html": "<p>Sometimes confusing but was able to clarify. Good job nonetheless.</p>",
+            "created_formatted_with_time_since": "a week ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 121070096,
+            "content": "the course is specialized so that we learn ourselves deeply,simple and easy",
+            "rating": 4.0,
+            "created": "2022-08-12T18:04:38-07:00",
+            "modified": "2022-08-13T16:10:32-07:00",
+            "user_modified": "2022-08-12T18:05:50-07:00",
+            "user": {
+              "_class": "user",
+              "title": "M.S.Swaroop",
+              "name": "M.S.Swaroop",
+              "display_name": "M.S.Swaroop",
+              "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "M",
+              "tracking_id": "DYJhP_oLTAK_bhp33Ao0jw",
+              "public_display_name": "M.S.Swaroop"
+            },
+            "response": null,
+            "content_html": "<p>the course is specialized so that we learn ourselves deeply,simple and easy</p>",
+            "created_formatted_with_time_since": "2 weeks ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 117325042,
+            "content": "In depth concepts of python have been clearly explained. Good chemistry between student and instructor. Fantastic course. Completed every vid and had lot of fun",
+            "rating": 5.0,
+            "created": "2022-06-26T23:56:18-07:00",
+            "modified": "2022-06-27T16:08:00-07:00",
+            "user_modified": "2022-06-26T23:57:17-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Saurish Reddy",
+              "name": "Saurish",
+              "display_name": "Saurish Reddy",
+              "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "SR",
+              "tracking_id": "KY92WKp1RBOhgmakdMTwyg",
+              "public_display_name": "Saurish R."
+            },
+            "response": null,
+            "content_html": "<p>In depth concepts of python have been clearly explained. Good chemistry between student and instructor. Fantastic course. Completed every vid and had lot of fun</p>",
+            "created_formatted_with_time_since": "2 months ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 115373418,
+            "content": "i can't say as i have not taken that many classes yet but so far it is good.\nedited( so yeah it was a journey for me many things happen but i am glad they did and also grateful to the person who is guiding me and thanks udemy for these courses really appreciate it !!!)",
+            "rating": 5.0,
+            "created": "2022-06-01T01:59:01-07:00",
+            "modified": "2022-06-21T06:30:28-07:00",
+            "user_modified": "2022-06-21T06:30:28-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Shiristi",
+              "name": "Shiristi",
+              "display_name": "Shiristi",
+              "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "S",
+              "tracking_id": "5qYS82GqTTmoelCRVUZN4w",
+              "public_display_name": "Shiristi"
+            },
+            "response": null,
+            "content_html": "<p>i can't say as i have not taken that many classes yet but so far it is good.<br>edited( so yeah it was a journey for me many things happen but i am glad they did and also grateful to the person who is guiding me and thanks udemy for these courses really appreciate it !!!)</p>",
+            "created_formatted_with_time_since": "3 months ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 112278244,
+            "content": "teacher is good and direct, though not prompt at responding to questions and enquiries",
+            "rating": 4.0,
+            "created": "2022-04-20T12:57:31-07:00",
+            "modified": "2022-06-28T10:17:51-07:00",
+            "user_modified": "2022-06-28T10:17:51-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Ejeshi Godsgift",
+              "name": "Ejeshi",
+              "display_name": "Ejeshi Godsgift",
+              "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "EG",
+              "tracking_id": "bTzR44ycTf-OLXg0djPekA",
+              "public_display_name": "Ejeshi G."
+            },
+            "response": null,
+            "content_html": "<p>teacher is good and direct, though not prompt at responding to questions and enquiries</p>",
+            "created_formatted_with_time_since": "4 months ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 116203786,
+            "content": "The contents are good for getting a good idea about Python. But it's little bit outdated. Instructor is good. But the sound quality can be improved. Please try to update the content. The course is almost 5 - 6 years old. So, think before purchasing.",
+            "rating": 3.0,
+            "created": "2022-06-12T04:03:57-07:00",
+            "modified": "2022-06-14T16:09:31-07:00",
+            "user_modified": "2022-06-12T04:07:20-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Sreelakshmi Anilkumar",
+              "name": "Sreelakshmi",
+              "display_name": "Sreelakshmi Anilkumar",
+              "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "SA",
+              "tracking_id": "9V67D7djTxytxgRISv247g",
+              "public_display_name": "Sreelakshmi A."
+            },
+            "response": null,
+            "content_html": "<p>The contents are good for getting a good idea about Python. But it's little bit outdated. Instructor is good. But the sound quality can be improved. Please try to update the content. The course is almost 5 - 6 years old. So, think before purchasing.</p>",
+            "created_formatted_with_time_since": "2 months ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 120660704,
+            "content": "I took this course with Python 3.10 utilizing PyCharm as an IDE, so some of the information is a little dated.  With that being said, good basics are covered to where figuring out your solution isn't anything too difficult.  This course was definitely incredibly helpful in taking a bigger plunge into Python.",
+            "rating": 3.5,
+            "created": "2022-08-08T00:29:47-07:00",
+            "modified": "2022-08-09T16:09:48-07:00",
+            "user_modified": "2022-08-08T00:31:41-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Matthew E Gunn",
+              "name": "Matthew E",
+              "display_name": "Matthew E Gunn",
+              "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "MG",
+              "tracking_id": "4vccng6YQmmCcKqQV53JPg",
+              "public_display_name": "Matthew E G."
+            },
+            "response": null,
+            "content_html": "<p>I took this course with Python 3.10 utilizing PyCharm as an IDE, so some of the information is a little dated.  With that being said, good basics are covered to where figuring out your solution isn't anything too difficult.  This course was definitely incredibly helpful in taking a bigger plunge into Python.</p>",
+            "created_formatted_with_time_since": "3 weeks ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 121665038,
+            "content": "not from the basic .many small but very irritating error comes and i was not able to find the solution in a week also . so it is not satisfying. educator should at least disscuss about all that possible errors.",
+            "rating": 2.0,
+            "created": "2022-08-21T04:23:44-07:00",
+            "modified": "2022-09-01T18:49:08-07:00",
+            "user_modified": "2022-09-01T18:49:08-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Shyam Kumar",
+              "name": "Shyam",
+              "display_name": "Shyam Kumar",
+              "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "SK",
+              "tracking_id": "rW4HiftARxqLbyxFuT-ZBA",
+              "public_display_name": "Shyam K."
+            },
+            "response": null,
+            "content_html": "<p>not from the basic .many small but very irritating error comes and i was not able to find the solution in a week also . so it is not satisfying. educator should at least disscuss about all that possible errors.</p>",
+            "created_formatted_with_time_since": "a week ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 112944250,
+            "content": "Left mouse pointer on text frequently\nRecording setup picked up heavy key strikes making listening difficult.\n\nSolved problems well as they came.\nCovered many functions of python and seemed knowledgeable.",
+            "rating": 3.5,
+            "created": "2022-04-29T15:46:09-07:00",
+            "modified": "2022-04-30T16:05:23-07:00",
+            "user_modified": "2022-04-29T15:48:23-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Bill Reichert",
+              "name": "Bill",
+              "display_name": "Bill Reichert",
+              "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "BR",
+              "tracking_id": "feRUgiq2SdWrKxn_vbUpLQ",
+              "public_display_name": "Bill R."
+            },
+            "response": null,
+            "content_html": "<p>Left mouse pointer on text frequently<br>Recording setup picked up heavy key strikes making listening difficult.</p>\n\n<p>Solved problems well as they came.<br>Covered many functions of python and seemed knowledgeable.</p>",
+            "created_formatted_with_time_since": "4 months ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 117853574,
+            "content": "I am still making my way through the course. However, I like the structure and the pace as well as the pdf exercises. I was learning by watching youtube but it is nice having a structured lesson that gradually progresses in difficulty. It's also nice having a certificate as a way to validate what I've learned to others.",
+            "rating": 5.0,
+            "created": "2022-07-03T06:08:01-07:00",
+            "modified": "2022-07-20T13:31:26-07:00",
+            "user_modified": "2022-07-20T13:31:26-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Todd Gustafson",
+              "name": "Todd",
+              "display_name": "Todd Gustafson",
+              "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "TG",
+              "tracking_id": "HFEsgYeyTrmBlRCwP1pCnw",
+              "public_display_name": "Todd G."
+            },
+            "response": null,
+            "content_html": "<p>I am still making my way through the course. However, I like the structure and the pace as well as the pdf exercises. I was learning by watching youtube but it is nice having a structured lesson that gradually progresses in difficulty. It's also nice having a certificate as a way to validate what I've learned to others.</p>",
+            "created_formatted_with_time_since": "2 months ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 119497912,
+            "content": "As this course is old now so the codes we take from websites are not there as the websites are updated so please update this course.",
+            "rating": 4.5,
+            "created": "2022-07-24T08:39:22-07:00",
+            "modified": "2022-08-08T08:31:33-07:00",
+            "user_modified": "2022-08-08T08:31:33-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Rahul The All Rounder",
+              "name": "Rahul",
+              "display_name": "Rahul The All Rounder",
+              "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "RT",
+              "tracking_id": "GHIbsttXTL2jVmyB-lohvA",
+              "public_display_name": "Rahul T."
+            },
+            "response": null,
+            "content_html": "<p>As this course is old now so the codes we take from websites are not there as the websites are updated so please update this course.</p>",
+            "created_formatted_with_time_since": "a month ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 119370966,
+            "content": "The course was amazing . Learned a lot new things.",
+            "rating": 4.5,
+            "created": "2022-07-22T01:59:02-07:00",
+            "modified": "2022-07-23T16:05:16-07:00",
+            "user_modified": "2022-07-22T01:59:28-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Ritesh Amar Sahu",
+              "name": "Ritesh Amar",
+              "display_name": "Ritesh Amar Sahu",
+              "image_50x50": "https://img-b.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "RS",
+              "tracking_id": "4S_Nm86HSY2oPqyhrLR83Q",
+              "public_display_name": "Ritesh Amar S."
+            },
+            "response": null,
+            "content_html": "<p>The course was amazing . Learned a lot new things.</p>",
+            "created_formatted_with_time_since": "a month ago"
+          }
+        ],
+        "stars": 4.4,
+        "ratings_count": 3192,
+        "students": 19423,
+        "price": 679.99,
+        "old_price":649.99,
+        "bestseller": false,
+        "sections_num": 15,
+        "lectures_num": 146,
+        "total_hours": 14,
+        "articles_num": 2,
+        "downloadable_resources": 3,
+        "total_minutes": 42,
+        "learning_points": [
+          "Create their own Python Programs",
+          "Become an experienced Python Programmer",
+          "Parse the Web and Create their own Games"
+        ],
+        "last_updated": "09/2015",
+        "course_language": "English",
+        "caption_language": "English",
+        "category":["Development","Programming Languages","Python"],
+        "requirements": [
+          "Macintosh (OSX)/ Windows(Vista and higher) Machine",
+          "Internet Connection"
+        ],
+        "description_section": "<div><p><strong>Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more? </strong></p><p>If you’re looking to learn Python for the very <strong>first time</strong> or need a <strong>quick brush-up</strong>, this is the course for you! </p><p>Python has rapidly become one of the <strong>most popular programming languages </strong>around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes <strong>over $100,000 </strong>- this number is only going to grow in the coming years.</p><p>The best part? Python is one of the <strong>easiest coding languages </strong>to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course, you'll be an <strong>absolute pro</strong> at programming!</p><p>This course will cover <strong>all the basics</strong> and <strong>several advanced concepts</strong> of Python. We’ll go over:</p><ul><li><p>The fundamentals of Python programming</p></li><li><p>Writing and Reading to Files</p></li><li><p>Automation of Word and Excel Files</p></li><li><p>Web scraping with BeautifulSoup4</p></li><li><p>Browser automation with Selenium</p></li><li><p>Data Analysis and Visualization with MatPlotLib</p></li><li><p>Regex parsing and Task Management</p></li><li><p>GUI and Gaming with Tkinter</p></li><li><p>And much more!</p></li></ul><p>If you read the above list and are feeling a bit confused, don’t worry! As an instructor and student on Udemy for <strong>almost 4 years,</strong> I know what it’s like to be overwhelmed with boring and mundane. I promise you’ll have a blast learning the ins and outs of python. I’ve successfully taught over<strong> 200,000+ students </strong>from over<strong> 200 countries</strong> jumpstart their programming journeys through my courses. </p><p>Here’s what some of my students have to say:</p><ul><li><p>“I wish I started programming at a younger age like Avi. &nbsp;This Python course was excellent for those that cringe at the thought of starting over from scratch with attempts to write programs once again. Python is a great building language for any beginner programmer. Thank you Avi!”</p><p><br></p></li><li><p>“I had no idea about any programming language. With Avi's lectures, I'm now aware of several python concepts and I'm beginning to write my own programs. Avi is crisp and clear in his lectures and it is easy to catch the concepts and the depth of it through his explanations. Thanks, Avi for the wonderful course, You're awesome! It's helping me a lot :)”</p><p><br></p></li><li><p>Videos are short and concise and well-defined in their title, this makes them easy to refer back to when a refresher is needed. Explanations aren't convoluted with complicated examples, which adds to the quick pace of the videos. I am very pleased with the decision to enroll in this course. Not only has it increased the pace I'm learning Python but I actively look forward to continuing the course, whenever I get the chance. Avi is friendly and energetic, absolutely delightful as an instructor.”</p></li></ul><p>So what are you waiting for? <strong>Jumpstart your programming journey</strong> and dive into the world of Python by<strong> enrolling in this course today!</strong></p></div>",
+        "content": [
+          {
+            "title": "Up and Running With Python",
+            "points": ["Installing Python", "Hello World"]
+          },
+          {
+            "title": "The Basics (Data Types)",
+            "points": [
+              "Variables",
+              "Multiple Assignment",
+              "Data Types and Ints",
+              "Strings",
+              "Placeholders",
+              "Lists/Arrays",
+              "List Functions",
+              "Dictionaries",
+              "Dictionary Functions",
+              "Tuples",
+              "Exercise Files"
+            ]
+          },
+          {
+            "title": "Conditions and Loops",
+            "points": [
+              "If-Else Statements",
+              "Relational Operators",
+              "Nested If/Else",
+              "Elif Statements",
+              "Logical Operators",
+              "For Loops",
+              "While Loops",
+              "Nested For Loops",
+              "Pass, Break and Continue",
+              "Try and Except",
+              "Commenting",
+              "Quick Tips",
+              "Exercise Files"
+            ]
+          },
+          {
+            "title": "Functions!",
+            "points": [
+              "Creating our own Functions",
+              "Global and Local Vars",
+              "Abs and Bool",
+              "Help and Dir",
+              "Eval and Exec",
+              "Str, Int, Float",
+              "Recap and Sum"
+            ]
+          },
+          {
+            "title": "Classes! (Object Orientated Programming)",
+            "points": [
+              "Basics of Classes",
+              "Functions in Classes",
+              "Class Attributes",
+              "Inheritance",
+              "Overriding Methods"
+            ]
+          },
+          {
+            "title": "File Input/Output",
+            "points": [
+              "Creating a File",
+              "Creating a File (Windows)",
+              "Reading a File",
+              "Writing to a File",
+              "Appending to Files",
+              "Copying Files"
+            ]
+          },
+          {
+            "title": "Using Python Modules",
+            "points": [
+              "Random Module - Randint",
+              "Guessing Game",
+              "Guessing Game Challenge",
+              "Random Module - Shuffle and Choice",
+              "Sys Module",
+              "Time Module",
+              "Turtle Module",
+              "For Loops in Turtle",
+              "Up and Down Functions",
+              "Coloring in Turtle",
+              "Functions in Turtle",
+              "Exercise Files"
+            ]
+          },
+          {
+            "title": "Crawling The Web",
+            "points": [
+              "Re Module",
+              "Crawling The Web (Stocks)",
+              "Stock Quotes (.py)",
+              "Crawling The Web (Weather)",
+              "Weather (.py)",
+              "Crawling The Web (Definition)",
+              "Definition (.py)"
+            ]
+          },
+          {
+            "title": "Beautiful Soup HTML Parsing",
+            "points": [
+              "Intro to Beautiful Soup",
+              "Installing the Beautiful Soup Module",
+              "Prettify with Soup",
+              "Drilling Down",
+              "Functions in Soup",
+              ".String and .Parent",
+              "Searching in Soup",
+              "Weather Parsing",
+              "Antonym Parsing"
+            ]
+          },
+          {
+            "title": "MatPlotLib - Charts, Plots and 3D Figures!",
+            "points": [
+              "Intro to MatPlotLib",
+              "First Graph!",
+              "Understanding the MatPlotLib Interface",
+              "Graph Labels",
+              "Creating a Graph from a File",
+              "Understanding SubPlots and Figures",
+              "Coloring of Graph",
+              "Multiple Plots in a Graph",
+              "Multiple Graphs in a Figure",
+              "What about 3 graphs?",
+              "Bar Graphs Intro",
+              "Modifying our Bar Graph",
+              "Pie Chart Intro",
+              "Modifying our Pie Chart",
+              "Adding a Legend",
+              "3D Graphics Intro",
+              "3D Scatter Plots",
+              "Multiple 3D Scatter Plots",
+              "3D Bar Graphs",
+              "3D Wireframes"
+            ]
+          },
+          {
+            "title": "Data Analysis with Pandas!",
+            "points": [
+              "Intro to Pandas",
+              "Series Data Structure",
+              "Series Continuation",
+              "Data Frames Intro",
+              "Creating a CSV",
+              "Reading a CSV",
+              "Writing to a CSV",
+              "Getting our Data",
+              "Slicing Data Frames",
+              "Data Manipulation",
+              "Indexing and More",
+              "Merging Data Frames",
+              "GroupBy Function",
+              "MovieLens Data",
+              "Heavy Data Analysis",
+              "MatPlotLib with Pandas",
+              "Let's Finish This"
+            ]
+          },
+          {
+            "title": "Python GUI with Tkinter",
+            "points": [
+              "Tkinter Introduction",
+              "Labels",
+              "Buttons",
+              "Layouts",
+              "Fill",
+              "Grid Layout",
+              "Entries",
+              "Check Buttons",
+              "GUI Login",
+              "Actions on Button Click",
+              "Binding Functions",
+              "More Binding!",
+              "Getting Entry Data",
+              "Message Box",
+              "Drop Down Menus",
+              "Calculator Part 1",
+              "Calculator Part 2",
+              "Calculator Part 3",
+              "Calculator Part 4",
+              "Canvas Intro",
+              "Canvas Objects",
+              "Canvas Fill",
+              "Random Rectangle Generator",
+              "Text and Arcs",
+              "Animations"
+            ]
+          },
+          {
+            "title": "Our First Game (Bounce!)",
+            "points": [
+              "Creating our Ball",
+              "Adding the Game Interface",
+              "Adding the Paddle",
+              "Final Touches",
+              "Recap",
+              "Bounce! (.py) (v1/v2/v3)"
+            ]
+          },
+          {
+            "title": "Our Second Game (Pong!)",
+            "points": [
+              "Creating our Ball",
+              "Adding Paddle1",
+              "Adding Paddle2",
+              "Final Touches",
+              "Pong! (.py)"
+            ]
+          },
+          {
+            "title": "What's Next?",
+            "points": ["Up and Beyond!"]
+          }
+        ]
+      },
+      {
+        "id": "python_c2",
+        "img": "python-c2.jpg",
+        "title": "Learning Python for Data Analysis and Visualization",
+        "description": "Learn python and how to use it to analyze,visualize and present data. Includes tons of sample code and hours of video!",
+        "instructors": [
+          {
+            "name": "Jose Portille",
+            "headline": "Head of Data Science at Pierian Training",
+            "instructor_rating": 4.6,
+            "total_reviews_count": 940627,
+            "total_students": 3012950,
+            "courses_count": 54,
+            "img": "JosePortilla.jpg",
+            "about": "<div><p>Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science, Machine Learning and Python Programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming, the&nbsp;ability to analyze data, and the skills needed to present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Training&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to check out the website link to find out more information about training offerings.</p></div>"
+          }
+        ],
+        "students_feedback": {
+          "five_stars_percentage": "46",
+          "four_stars_percentage": "36",
+          "three_stars_percentage": "13",
+          "two_stars_percentage": "3",
+          "one_star_percentage": "2",
+          "avg_stars": "4.4"
+        },
+        "reviews": [
+          {
+            "_class": "course_review",
+            "id": 121048250,
+            "content": "His voice in each video can either be audible or barely audible. If it was consistent then it would be fine, but I have to keep adjusting the volume.",
+            "rating": 2.5,
+            "created": "2022-08-12T09:47:32-07:00",
+            "modified": "2022-08-13T16:10:33-07:00",
+            "user_modified": "2022-08-12T09:48:50-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Bryan Pham",
+              "name": "Bryan",
+              "display_name": "Bryan Pham",
+              "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "BP",
+              "tracking_id": "rI2Zf6OYQJaxfivUHmWwOQ",
+              "public_display_name": "Bryan P."
+            },
+            "response": null,
+            "content_html": "<p>His voice in each video can either be audible or barely audible. If it was consistent then it would be fine, but I have to keep adjusting the volume.</p>",
+            "created_formatted_with_time_since": "3 weeks ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 120945340,
+            "content": "I found the course to be amazing, the instructor was clear and easy to follow. The instructions were easily available and covered almost every thing I could have asked for. The Q&A section was helpful as well. One negative aspect was that it did not exhaust all the topic especially from the data visualization were matplotlib did not even have a section.",
+            "rating": 4.0,
+            "created": "2022-08-11T04:10:15-07:00",
+            "modified": "2022-08-12T16:06:45-07:00",
+            "user_modified": "2022-08-11T04:13:21-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Redon Deliu",
+              "name": "Redon",
+              "display_name": "Redon Deliu",
+              "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "RD",
+              "tracking_id": "G4CWF0aUSduAYDM11bJynQ",
+              "public_display_name": "Redon D."
+            },
+            "response": null,
+            "content_html": "<p>I found the course to be amazing, the instructor was clear and easy to follow. The instructions were easily available and covered almost every thing I could have asked for. The Q&A section was helpful as well. One negative aspect was that it did not exhaust all the topic especially from the data visualization were matplotlib did not even have a section.</p>",
+            "created_formatted_with_time_since": "3 weeks ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 116082176,
+            "content": "course is good but please update these course because many of the  code which is being used has been updated and some of the code doesn't work because of updating please mention these kind of thing while purchase because if you provide a updated course with 500 i thing you sale will boost up may be you ca raise price around 1500 rs  we can spend that much of money for knowledge",
+            "rating": 5.0,
+            "created": "2022-06-10T01:19:13-07:00",
+            "modified": "2022-07-06T09:42:24-07:00",
+            "user_modified": "2022-07-06T09:42:24-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Tanishq",
+              "name": "Tanishq",
+              "display_name": "Tanishq",
+              "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "T",
+              "tracking_id": "rxgpugN6RueABlUAywE1hQ",
+              "public_display_name": "Tanishq"
+            },
+            "response": null,
+            "content_html": "<p>course is good but please update these course because many of the  code which is being used has been updated and some of the code doesn't work because of updating please mention these kind of thing while purchase because if you provide a updated course with 500 i thing you sale will boost up may be you ca raise price around 1500 rs  we can spend that much of money for knowledge</p>",
+            "created_formatted_with_time_since": "2 months ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 115296680,
+            "content": "Instructor was very clear and knowledgeable. I was able to understand all the concepts and apply them. The course was a little outdated but I was still able to get almost everything to work.",
+            "rating": 5.0,
+            "created": "2022-05-31T05:23:17-07:00",
+            "modified": "2022-06-02T21:12:31-07:00",
+            "user_modified": "2022-05-31T05:24:52-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Jerell Smith",
+              "name": "Jerell",
+              "display_name": "Jerell Smith",
+              "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "JS",
+              "tracking_id": "aWZRSGHDRwaqMfhI9xpo3Q",
+              "public_display_name": "Jerell S."
+            },
+            "response": null,
+            "content_html": "<p>Instructor was very clear and knowledgeable. I was able to understand all the concepts and apply them. The course was a little outdated but I was still able to get almost everything to work.</p>",
+            "created_formatted_with_time_since": "3 months ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 111249980,
+            "content": "Really enjoyed the course, being a total beginner it really set a good foundation.",
+            "rating": 4.5,
+            "created": "2022-04-05T22:58:50-07:00",
+            "modified": "2022-04-06T16:07:32-07:00",
+            "user_modified": "2022-04-05T22:59:49-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Sechaba Magatikele",
+              "name": "Sechaba",
+              "display_name": "Sechaba Magatikele",
+              "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "SM",
+              "tracking_id": "XvsLG_6KRW2vr-SnWyhWsQ",
+              "public_display_name": "Sechaba M."
+            },
+            "response": null,
+            "content_html": "<p>Really enjoyed the course, being a total beginner it really set a good foundation.</p>",
+            "created_formatted_with_time_since": "4 months ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 120160382,
+            "content": "Felt like many code parts / concepts were skimmed over with no explanation whatsoever - I understand that many concepts were previously explained or encouraged to further explore by yourself, however some code parts should've been atleast explained to some degree. Big fan of Jose in general from this other courses, I think he's a great tutor",
+            "rating": 2.0,
+            "created": "2022-08-01T12:10:05-07:00",
+            "modified": "2022-08-02T16:09:50-07:00",
+            "user_modified": "2022-08-01T12:11:38-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Mouayad Masalkhi",
+              "name": "Mouayad",
+              "display_name": "Mouayad Masalkhi",
+              "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "MM",
+              "tracking_id": "mG5a9a_KQMmuTZrubemGiw",
+              "public_display_name": "Mouayad M."
+            },
+            "response": null,
+            "content_html": "<p>Felt like many code parts / concepts were skimmed over with no explanation whatsoever - I understand that many concepts were previously explained or encouraged to further explore by yourself, however some code parts should've been atleast explained to some degree. Big fan of Jose in general from this other courses, I think he's a great tutor</p>",
+            "created_formatted_with_time_since": "a month ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 120823346,
+            "content": "Awesome teacher! I'm enjoying the presented course material and learning a lot. Thank you Jose !!!!!",
+            "rating": 5.0,
+            "created": "2022-08-09T17:29:38-07:00",
+            "modified": "2022-08-27T11:21:30-07:00",
+            "user_modified": "2022-08-27T11:21:30-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Justin Mabiala",
+              "name": "Justin",
+              "display_name": "Justin Mabiala",
+              "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "JM",
+              "tracking_id": "OMxlwNMBQx6WR83GoHIjrQ",
+              "public_display_name": "Justin M."
+            },
+            "response": null,
+            "content_html": "<p>Awesome teacher! I'm enjoying the presented course material and learning a lot. Thank you Jose !!!!!</p>",
+            "created_formatted_with_time_since": "3 weeks ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 119986350,
+            "content": "I haven't  even finished the course actually, but I must commend its so so amazing and its worth it.",
+            "rating": 5.0,
+            "created": "2022-07-29T21:07:13-07:00",
+            "modified": "2022-08-11T15:23:43-07:00",
+            "user_modified": "2022-08-11T15:23:43-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Ferdinand Imeka",
+              "name": "Ferdinand",
+              "display_name": "Ferdinand Imeka",
+              "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "FI",
+              "tracking_id": "6biwsihwTvi6eqTM_dD8_Q",
+              "public_display_name": "Ferdinand I."
+            },
+            "response": null,
+            "content_html": "<p>I haven't  even finished the course actually, but I must commend its so so amazing and its worth it.</p>",
+            "created_formatted_with_time_since": "a month ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 114392712,
+            "content": "Very dry lectures, he talks about code without explaining what each means. Plus a lot of the code is out of date and invalid. There are also loads of typos in the Jupyter Notebook that just make the course seem sloppy. Would definitely not recommend buying this one in 2022.",
+            "rating": 1.0,
+            "created": "2022-05-19T14:34:20-07:00",
+            "modified": "2022-07-08T14:13:39-07:00",
+            "user_modified": "2022-07-08T14:13:39-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Nathan Kwan",
+              "name": "Nathan",
+              "display_name": "Nathan Kwan",
+              "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "NK",
+              "tracking_id": "QlUFF_xLTXmhdy7BZtfilw",
+              "public_display_name": "Nathan K."
+            },
+            "response": null,
+            "content_html": "<p>Very dry lectures, he talks about code without explaining what each means. Plus a lot of the code is out of date and invalid. There are also loads of typos in the Jupyter Notebook that just make the course seem sloppy. Would definitely not recommend buying this one in 2022.</p>",
+            "created_formatted_with_time_since": "3 months ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 114770042,
+            "content": "Lots of codes relate to Python2 and it has been very difficult to search constantly search for the replacement for the deprecated commands",
+            "rating": 3.0,
+            "created": "2022-05-24T11:53:53-07:00",
+            "modified": "2022-05-26T16:08:47-07:00",
+            "user_modified": "2022-05-24T11:54:30-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Bhuvana Raghuraman",
+              "name": "Bhuvana",
+              "display_name": "Bhuvana Raghuraman",
+              "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "BR",
+              "tracking_id": "ifk_utkJSO6EcuMVrsWO4g",
+              "public_display_name": "Bhuvana R."
+            },
+            "response": null,
+            "content_html": "<p>Lots of codes relate to Python2 and it has been very difficult to search constantly search for the replacement for the deprecated commands</p>",
+            "created_formatted_with_time_since": "3 months ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 115449950,
+            "content": "many of the syntax are old...may renew them :D",
+            "rating": 4.0,
+            "created": "2022-06-01T23:24:38-07:00",
+            "modified": "2022-06-03T16:07:46-07:00",
+            "user_modified": "2022-06-01T23:25:06-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Abraham Baldo",
+              "name": "Abraham",
+              "display_name": "Abraham Baldo",
+              "image_50x50": "https://img-c.udemycdn.com/user/50x50/190730640_184e_2.jpg",
+              "initials": "AB",
+              "tracking_id": "51eEaFwoRVuuOWwVNvje_Q",
+              "public_display_name": "Abraham B."
+            },
+            "response": null,
+            "content_html": "<p>many of the syntax are old...may renew them :D</p>",
+            "created_formatted_with_time_since": "3 months ago"
+          },
+          {
+            "_class": "course_review",
+            "id": 112115418,
+            "content": "Yes, courses broken down in small digestible videos, easy to follow along",
+            "rating": 5.0,
+            "created": "2022-04-18T16:20:52-07:00",
+            "modified": "2022-05-06T11:31:10-07:00",
+            "user_modified": "2022-05-06T11:31:10-07:00",
+            "user": {
+              "_class": "user",
+              "title": "Ilaria Bossi",
+              "name": "Ilaria",
+              "display_name": "Ilaria Bossi",
+              "image_50x50": "https://img-c.udemycdn.com/user/50x50/anonymous_3.png",
+              "initials": "IB",
+              "tracking_id": "z2LF4e9MRL6G9L3JooAkZg",
+              "public_display_name": "Ilaria B."
+            },
+            "response": null,
+            "content_html": "<p>Yes, courses broken down in small digestible videos, easy to follow along</p>",
+            "created_formatted_with_time_since": "4 months ago"
+          }
+        ],
+        "stars": 4.4,
+        "ratings_count": 18122,
+        "students": 191548,
+        "price": 1599.99,
+        "old_price":649.99,
+        "bestseller": true,
+        "sections_num": 15,
+        "lectures_num": 110,
+        "total_hours": 21,
+        "articles_num": 3,
+        "downloadable_resources": 4,
+        "total_minutes": 5,
+        "learning_points": [
+          "Have an intermediate skill level of Python programming.",
+          "Use the Jupyter Notebook Environment.",
+          "Use the numpy library to create and manipulate arrays.",
+          "Use the pandas module with Python to create and structure data.",
+          "Learn how to work with various data formats within python, including: JSON,HTML, and MS Excel Worksheets.",
+          "Create data visualizations using matplotlib and the seaborn modules with python.",
+          "Have a portfolio of various data analysis projects."
+        ],
+        "last_updated": "09/2019",
+        "course_language": "English",
+        "caption_language": "English",
+        "category":["Development","Programming Languages","Python"],
+        "requirements": [
+          "Basic math skills.",
+          "Basic to Intermediate Python Skills",
+          "Have a computer (either Mac, Windows, or Linux)",
+          "Desire to learn!"
+        ],
+        "description_section": "<div><p><br></p><p><strong>PLEASE&nbsp;READ&nbsp;BEFORE&nbsp;ENROLLING:&nbsp;</strong></p><p><strong>1.)&nbsp;THERE&nbsp;IS&nbsp;AN&nbsp;UPDATED&nbsp;VERSION&nbsp;OF&nbsp;THIS&nbsp;COURSE:&nbsp;</strong></p><p><strong>PYTHON&nbsp;FOR&nbsp;DATA&nbsp;SCIENCE&nbsp;AND&nbsp;MACHINE&nbsp;LEARNING BOOTCAMP&nbsp;</strong></p><p><strong>2.)&nbsp;IF YOU ARE A COMPLETE BEGINNER IN PYTHON-CHECK OUT MY OTHER COURSE COMPLETE&nbsp;PYTHON&nbsp;MASTERCLASS&nbsp;JOURNEY!</strong></p><p><br></p><p><strong>CLICK&nbsp;ON&nbsp;MY&nbsp;PROFILE&nbsp;TO&nbsp;FIND&nbsp;IT. (PLEASE&nbsp;WATCH&nbsp;THE&nbsp;FIRST&nbsp;PROMO&nbsp;VIDEO&nbsp;ON&nbsp;THIS&nbsp;PAGE&nbsp;FOR&nbsp;MORE&nbsp;INFO)</strong></p><p>**********************************************************************************************************</p><p><br></p><p><strong>This course will give you the resources to learn python and effectively use it analyze and visualize data! Start your career in Data Science!</strong></p><p>&nbsp; &nbsp; You'll get a full understanding of how to program with Python and how to use it in conjunction with scientific computing modules and libraries to analyze data.&nbsp; </p><p>&nbsp; You will also get lifetime access to over 100 example python code notebooks, new and updated videos, as well as future additions of various data analysis projects that you can use for a portfolio to show future employers!&nbsp; </p><p>&nbsp; &nbsp; By the end of this course you will:&nbsp; </p><p>&nbsp; - Have an understanding of how to program in Python.&nbsp; </p><p>&nbsp; - Know how to create and manipulate arrays using numpy and Python.&nbsp; </p><p>&nbsp; - Know how to use pandas to create and analyze data sets.&nbsp; </p><p>&nbsp; - Know how to use matplotlib and seaborn libraries to create beautiful data visualization.&nbsp; </p><p>&nbsp; - Have an amazing portfolio of example python data analysis projects!&nbsp; </p><p>- Have an understanding of Machine Learning and SciKit Learn! </p><p>&nbsp; With 100+ lectures and over 20 hours of information and more than 100 example python code notebooks, you will be excellently prepared for a future in data science!&nbsp; </p></div>",
+        "content": [
+          {
+            "title": "Intro to Course and Python",
+            "points": ["Course Intro", "Course FAQs"]
+          },
+          {
+            "title": "Setup",
+            "points": [
+              "Installation Setup and Overview",
+              "IDEs and Course Resources",
+              "iPython/Jupyter Notebook Overview"
+            ]
+          },
+          {
+            "title": "Learning Numpy",
+            "points": [
+              "Intro to numpy",
+              "Creating arrays",
+              "Using arrays and scalars",
+              "Indexing Arrays",
+              "Array Transposition",
+              "Universal Array Function",
+              "Array Processing",
+              "Array Input and Output"
+            ]
+          },
+          {
+            "title": "Intro to Pandas",
+            "points": [
+              "Series",
+              "DataFrames",
+              "Index objects",
+              "Reindex",
+              "Drop Entry",
+              "Selecting Entries",
+              "Data Alignment",
+              "Rank and Sort",
+              "Summary Statistics",
+              "Missing Data",
+              "Index Hierarchy"
+            ]
+          },
+          {
+            "title": "Working with Data:Part 1",
+            "points": [
+              "Reading and Writing Text Files",
+              "JSON with Python",
+              "HTML with Python",
+              "Microsoft Excel files with Python"
+            ]
+          },
+          {
+            "title": "Working with Data:Part 2",
+            "points": [
+              "Merge",
+              "Merge on Index",
+              "Concatenate",
+              "Combining DataFrames",
+              "Reshaping",
+              "Pivoting",
+              "Duplicates in DataFrames",
+              "Mapping",
+              "Replace",
+              "Rename Index",
+              "Binning",
+              "Outliers",
+              "Permutation"
+            ]
+          },
+          {
+            "title": "Working with Data:Part 3",
+            "points": [
+              "GroupBy on DataFrames",
+              "GroupBy on Dict and Series",
+              "Aggregation",
+              "Splitting Applying and Combining",
+              "Cross Tabulation"
+            ]
+          },
+          {
+            "title": "Data Visualization",
+            "points": [
+              "Installing Seaborn",
+              "Histograms",
+              "Kernel Density Estimate Plots",
+              "Combining Plot Styles",
+              "Box and Violin Plots",
+              "Regression Plots",
+              "Heatmaps and Clustered Matrices"
+            ]
+          },
+          {
+            "title": "Example Projects.",
+            "points": [
+              "Data Projects Preview",
+              "Intro to Data Projects",
+              "Titanic Project - Part 1",
+              "Titanic Project - Part 2",
+              "Titanic Project - Part 3",
+              "Titanic Project - Part 4",
+              "Intro to Data Project - Stock Market Analysis",
+              "Data Project - Stock Market Analysis Part 1",
+              "Data Project - Stock Market Analysis Part 2",
+              "Data Project - Stock Market Analysis Part 3",
+              "Data Project - Stock Market Analysis Part 4",
+              "Data Project - Stock Market Analysis Part 5",
+              "Data Project - Intro to Election Analysis",
+              "Data Project - Election Analysis Part 1",
+              "Data Project - Election Analysis Part 2",
+              "Data Project - Election Analysis Part 3",
+              "Data Project - Election Analysis Part 4"
+            ]
+          },
+          {
+            "title": "Machine Learning",
+            "points": [
+              "Introduction to Machine Learning with SciKit Learn",
+              "Linear Regression Part 1",
+              "Linear Regression Part 2",
+              "Linear Regression Part 3",
+              "Linear Regression Part 4",
+              "Logistic Regression Part 1",
+              "Logistic Regression Part 2",
+              "Logistic Regression Part 3",
+              "Logistic Regression Part 4",
+              "Multi Class Classification  Part 1 - Logistic Regression",
+              "Multi Class Classification Part 2 - k Nearest Neighbor",
+              "Support Vector Machines Part 1",
+              "Support Vector Machines - Part 2",
+              "Naive Bayes Part 1",
+              "Naive Bayes Part 2",
+              "Decision Trees and Random Forests",
+              "Natural Language Processing Part 1",
+              "Natural Language Processing Part 2",
+              "Natural Language Processing Part 3",
+              "Natural Language Processing Part 4"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "python_c3",
+        "img": "python-c3.jpg",
+        "title": "Python for Beginners - Learn Programming from scratch",
+        "description": "Python For Beginners : This course is meant for absolute beginners in programming or in python.",
+        "instructors": [
+          {
+            "name": "Edwin Diaz"
+          },
+          {
+            "name": "Coding Faculty Solutions"
+          }
+        ],
+        "learning_points": [
+          "Create their own Python Programs",
+          "Become an experienced Python Programmer",
+          "Parse the Web and Create their own Games"
+        ],
+        "students_feedback": {
+          "five_stars_percentage": "43",
+          "four_stars_percentage": "37",
+          "three_stars_percentage": "15",
+          "two_stars_percentage": "3",
+          "one_star_percentage": "2",
+          "avg_stars": "4.4"
+        },
+        "stars": 4.2,
+        "ratings_count": 1231,
+        "students": 14924,
+        "price": 679.99,
+        "old_price":649.99,
+        "bestseller": false,
+        "last_updated": "05/2022",
+        "course_language": "English",
+        "caption_language": "English",
+        "category":["Development","Programming Languages","Python"]
+      },
+      {
+        "id": "python_c4",
+        "img": "python-c4.jpg",
+        "title": "Learn Python: Python for Beginners",
+        "description": "Python introduction for beginners. Learn complete Python from scratch!",
+        "instructors": [
+          {
+            "name": "Abrar Hussain"
+          }
+        ],
+        "learning_points": [
+          "Create their own Python Programs",
+          "Become an experienced Python Programmer",
+          "Parse the Web and Create their own Games"
+        ],
+        "students_feedback": {
+          "five_stars_percentage": "43",
+          "four_stars_percentage": "37",
+          "three_stars_percentage": "15",
+          "two_stars_percentage": "3",
+          "one_star_percentage": "2",
+          "avg_stars": "4.4"
+        },
+        "stars": 4.5,
+        "ratings_count": 1439,
+        "students": 23523,
+        "price": 389.99,
+        "old_price":649.99,
+        "bestseller": false,
+        "last_updated": "05/2022",
+        "course_language": "English",
+        "caption_language": "English",
+        "category":["Development","Programming Languages","Python"]
+      },
+      {
+        "id": "python_c5",
+        "img": "python-c5.jpg",
+        "title": "Python Beyond the Basics - Object-Oriented Programming",
+        "description": "From Classes To Inheritance - OOP In-Depth For Python Programmers",
+        "instructors": [
+          {
+            "name": "Infinite Skills"
+          }
+        ],
+        "learning_points": [
+          "Create their own Python Programs",
+          "Become an experienced Python Programmer",
+          "Parse the Web and Create their own Games"
+        ],
+        "students_feedback": {
+          "five_stars_percentage": "43",
+          "four_stars_percentage": "37",
+          "three_stars_percentage": "15",
+          "two_stars_percentage": "3",
+          "one_star_percentage": "2",
+          "avg_stars": "4.4"
+        },
+        "stars": 4.4,
+        "ratings_count": 2570,
+        "students": 11323,
+        "price": 529.99,
+        "old_price":649.99,
+        "bestseller": false,
+        "last_updated": "05/2022",
+        "course_language": "English",
+        "caption_language": "English",
+        "category":["Development","Programming Languages","Python"]
+      },
+      {
+        "id": "python_c6",
+        "img": "python-c6.jpg",
+        "title": "Python for Data Structures, Algorithms, and Interviews!",
+        "description": "Get a kick start on your career and ace your coding interviews!",
+        "instructors": [
+          {
+            "name": "Jose Portille"
+          }
+        ],
+        "learning_points": [
+          "Create their own Python Programs",
+          "Become an experienced Python Programmer",
+          "Parse the Web and Create their own Games"
+        ],
+        "students_feedback": {
+          "five_stars_percentage": "43",
+          "four_stars_percentage": "37",
+          "three_stars_percentage": "15",
+          "two_stars_percentage": "3",
+          "one_star_percentage": "2",
+          "avg_stars": "4.4"
+        },
+        "stars": 4,
+        "ratings_count": 9471,
+        "students": 21423,
+        "price": 1299.99,
+        "old_price":649.99,
+        "bestseller": false,
+        "last_updated": "05/2022",
+        "course_language": "English",
+        "caption_language": "English",
+        "category":["Development","Programming Languages","Python"]
+      }
+    ],
+    "title": "Expand your career opportunities with Python",
+    "description": "Take one of Udemy’s range of Python courses and learn how to code using this incredibly useful language. Its simple syntax and readability makes Python perfect for Flask, Django, data science, and machine learning. You’ll learn how to build everything from games to sites to apps. Choose from a range of courses that will appeal to both beginners and advanced developers alike.",
+    "topic": "Python"
+  }
+}

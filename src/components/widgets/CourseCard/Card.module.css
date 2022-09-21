@@ -1,0 +1,21 @@
+.tooltip::after{
+    /* color:red;
+    content: "";
+    position: absolute; */
+    /* width: 0;
+    height: 0; */
+    /* top: 50%;
+    right: 91%; */
+    /* box-sizing: border-box; */
+    /* border: 11px solid black; */
+    /* border-color: #ffffff transparent transparent  #ffffff;  */
+    /* transform-origin: 0 0; */
+    /* transform: rotate(-45deg); */
+    /* box-shadow: 
+    -1px -1px 0 .1px #d1d7dc,
+    -1px -3px 4px rgb(0 0 0 / 8%),
+    -3px -12px 12px rgb(0 0 0 / 8%); */
+}
+.tooltip{
+    color:red;
+}
