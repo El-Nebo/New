@@ -2,15 +2,14 @@
 
 ## Website Overview
 <p align="center">
-  Uploading 2022-09-21 03-41-52.mp4…
 </p>
 
 ## Screen Shots
 <p align="center">
-  ![1663726124788](https://user-images.githubusercontent.com/62252633/191399067-20ca64f5-8b44-42e2-a0a4-1b3b918a28f5.png)
+![1663727012447](https://user-images.githubusercontent.com/62252633/191400073-9c063a3b-e72a-4468-a41c-34a72ecbe2bf.png)
 </p>
 <p align="center">
-  ![1663726415659](https://user-images.githubusercontent.com/62252633/191399077-5f6f2c31-f858-4af9-be6d-14ec622290ba.png)
+![1663726415659](https://user-images.githubusercontent.com/62252633/191400107-a2a48b7c-2a95-4da9-affa-a721c0bf6a9b.png)
 </p>
 
 ## How to run
