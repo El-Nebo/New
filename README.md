@@ -25,3 +25,9 @@ yarn
 ```
 yarn run run
 ```
+
+
+## 💻 Technologies and Frameworks Used <a name = "tech"></a>
+- React.js
+- Next.js
+- Tailwindcss
